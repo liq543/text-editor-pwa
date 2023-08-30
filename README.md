@@ -12,6 +12,10 @@ JATE is a progressive web application that allows users to create, edit, and sav
 - **Auto Save** - Never lose your work, JATE saves as you type.
 - **Customizable** - Personalize JATE by changing themes/fonts.
 
+## Screenshot
+
+![JATE Screenshot](./images/ss.png)
+
 ## Installation
 
 If you wish to run JATE locally, clone the GitHub repository and run the following commands:
