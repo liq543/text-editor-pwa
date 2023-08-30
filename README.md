@@ -29,7 +29,7 @@ This will install the required packages and build the client-side code.
 
 ## Usage
 
-To use JATE, simply visit the deployed site [here](https://github.com/liq543). You can immediately start typing to create a new document.
+To use JATE, simply visit the deployed site [here](https://calm-tundra-41158-61a3e2f16725.herokuapp.com/). You can immediately start typing to create a new document.
 
 Give JATE a name by clicking "Untitled Document" in the navbar. You can also open existing documents from the File menu.
 
